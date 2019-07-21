@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/CSTriggerbot.au3
-	```
+```
+src/CSTriggerbot.au3
+```
 
 ## Authors
 
