@@ -43,7 +43,7 @@ Func _Run()
 		If $fire <> 0 Then
 			; $mouse = MouseGetPos()
 
-			; MouseMove($mouse[0] + ($fire[0] - $crosshair[0]), $mouse[1] + ($fire[1] - $crosshaier[1]), 0)
+			; MouseMove($mouse[0] + ($fire[0] - $crosshair[0]), $mouse[1] + ($fire[1] - $crosshair[1]), 0)
 			; Send('ee')
 
 			$nShots += 1
